@@ -1,6 +1,6 @@
-==============================================================================
+=============================
 AGENTIC MANIM VIDEO GENERATOR
-==============================================================================
+=============================
 
 An AI-powered automation tool that takes a user-provided topic, plans a 
 storyboard, researches necessary Manim documentation, generates Python code, 
